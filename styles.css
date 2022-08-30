@@ -1,0 +1,12 @@
+.center {
+    display: block;
+    margin-left:auto;
+    margin-right:auto;
+}
+.white {
+    color:white;
+}
+.background {
+    background-color:rgb(46, 47, 48);
+    background-image:url('mb.svg');
+}
